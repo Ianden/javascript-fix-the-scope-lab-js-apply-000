@@ -1,5 +1,3 @@
-// Strings Lab
-
 var animal = 'dog'
 
 function myAnimal() {
